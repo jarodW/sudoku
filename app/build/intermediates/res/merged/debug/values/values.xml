@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="difficulty">
+      <item>@string/easy_label</item>
+      <item>@string/medium_label</item>
+      <item>@string/hard_label</item>
+   </array>
+    <array name="hint">
+      <item>@string/noNumHints_label</item>
+      <item>@string/numHints_label</item>
+   </array>
+    <color name="background">#35244296</color>
+    <color name="clue">#64c6d4ef</color>
+    <color name="dark_lines">#ff000000</color>
+    <color name="light_lines">#64969aa1</color>
+    <color name="puzzle_background">#ffe6f0ff</color>
+    <color name="puzzle_foreground">#ff000000</color>
+    <color name="puzzle_hilite">#ffffffff</color>
+    <color name="selected_tile">#64ff8000</color>
+    <string name="app_name">Sudoku</string>
+    <string name="easy_label">Easy</string>
+    <string name="exit_label">Exit</string>
+    <string name="game_title">Game</string>
+    <string name="hard_label">Hard</string>
+    <string name="hints_summary">Show hints during play</string>
+    <string name="hints_title">Hints</string>
+    <string name="keypad_title">Keypad</string>
+    <string name="main_title">Android Sudoku</string>
+    <string name="medium_label">Medium</string>
+    <string name="music_summary">Play background music</string>
+    <string name="music_title">Music</string>
+    <string name="new_game_label">New Game</string>
+    <string name="new_game_title">Difficulty</string>
+    <string name="noNumHints_label">No Hints</string>
+    <string name="no_moves_label">No moves</string>
+    <string name="numHints_label">Hint</string>
+    <string name="option_label">Option</string>
+    <string name="settings_label">Settings...</string>
+    <string name="settings_shortcut">s</string>
+    <string name="settings_title">Sudoku settings</string>
+</resources>
