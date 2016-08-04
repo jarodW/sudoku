@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Jarod\Desktop\sudoku\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a863d9686fee3eb271064d45b49aad6d84a86a8a">
+        <dex dex="C:\Users\Jarod\Desktop\sudoku\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_adc8d766a8edd1e6ad25477bbe407351c951d46c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jarod\Desktop\sudoku\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ddc0ce3435fd5bad08607e36f02665385c7d7b57">
+        <dex dex="C:\Users\Jarod\Desktop\sudoku\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_384bf686b304b19a091592ca39513608e6ef82f9\classes.dex" />
+    </item>
+
+</items>
